@@ -1,3 +1,10 @@
+> 本仓库已于2026-10-14迁移到 [gravity0603/huabao](https://github.com/gravity0603/huabao)。后续统一在那里维护；本仓库保留历史并归档。
+
+- [legacy/huabao-star-content-planner](https://github.com/gravity0603/huabao/tree/main/legacy/huabao-star-content-planner)
+- [skills/huabao-star-topic-planner](https://github.com/gravity0603/huabao/tree/main/skills/huabao-star-topic-planner)
+
+---
+
 # 华为画报明星选题策划
 
 [![Version](https://img.shields.io/badge/version-v1.0.0-2f6f6d.svg)](CHANGELOG.md)
